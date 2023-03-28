@@ -1,4 +1,10 @@
 [
+   {
+    "category": "exhibition",
+    "title": "테스트",
+    "date": "2021년 9월 1일",
+    "content": "가나다라"
+  },
   {
     "category": "exhibition",
     "title": "<Circle 2021> 전시 작품 소개 글",
