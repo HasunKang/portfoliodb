@@ -1,182 +1,98 @@
 [
   {
-    "title": "Unknown",
-    "material": "Digital drawing",
+    "title": "물결浪",
+    "material": "Ink on paper",
+    "size": "30.5x22.9cm",
     "date": "2023"
   },
   {
-    "title": "( ) I never had",
-    "material": "Digital drawing",
+    "title": "유랑流浪",
+    "material": "Ink and pencil on paper",
+    "size": "22.9x30.5cm",
     "date": "2023"
   },
   {
-    "title": "Deep dive",
-    "material": "Digital drawing",
+    "title": "유랑流浪",
+    "material": "Ink on paper",
+    "size": "22.9x30.5cm",
     "date": "2023"
   },
   {
-    "title": "Inner monologue",
-    "material": "Digital drawing",
+    "title": "유랑流浪",
+    "material": "Ink and pen on paper",
+    "size": "30.5x22.9cm",
     "date": "2023"
   },
   {
-    "title": "드로잉 연구",
-    "material": "Digital drawing",
-    "date": "2021"
-  },
-  {
-    "title": "Invisible link",
-    "material": "Digital drawing",
+    "title": "유랑流浪",
+    "material": "Ink and conte on paper",
+    "size": "22.9x30.5cm",
     "date": "2023"
   },
   {
-    "title": "드로잉 연구",
-    "material": "Digital drawing",
-    "date": "2021"
-  },
-  {
-    "title": "드로잉 연구",
-    "material": "Digital drawing",
-    "date": "2021"
-  },
-  {
-    "title": "드로잉 연구",
-    "material": "Digital drawing",
-    "date": "2021"
-  },
-  {
-    "title": "드로잉 연구",
-    "material": "Digital drawing",
-    "date": "2021"
-  },
-  {
-    "title": "드로잉 연구",
-    "material": "Digital drawing",
-    "date": "2021"
-  },
-  {
-    "title": "드로잉 연구",
-    "material": "Digital drawing",
-    "date": "2021"
-  },
-  {
-    "title": "송은",
-    "material": "Digital drawing",
+    "title": "유랑流浪",
+    "material": "Ink and conte on paper",
+    "size": "22.9x30.5cm",
     "date": "2023"
   },
   {
-    "title": "드로잉 연구",
-    "material": "Digital drawing",
+    "title": "순응順應",
+    "material": "Ink and pen on paper",
+    "size": "14.8x10.5cm",
     "date": "2023"
   },
   {
-    "title": "독배",
-    "material": "Digital drawing",
-    "date": "2022"
+    "title": "비碑",
+    "material": "Ink and pen on paper",
+    "size": "10.5x14.8cm",
+    "date": "2023"
   },
   {
-    "title": "독배",
-    "material": "Digital drawing",
-    "date": "2022"
+    "title": "산수山水",
+    "material": "Ink and pen on paper",
+    "size": "10.5x14.8cm",
+    "date": "2023"
   },
   {
-    "title": "독배",
-    "material": "Digital drawing",
-    "date": "2022"
+    "title": "산수山水",
+    "material": "Ink and pen on paper",
+    "size": "10.5x14.8cm",
+    "date": "2023"
   },
   {
-    "title": "독배",
-    "material": "Digital drawing",
-    "date": "2022"
+    "title": "돌파突破",
+    "material": "Ink and pen on paper",
+    "size": "10.5x14.8cm",
+    "date": "2023"
   },
   {
-    "title": "독배",
-    "material": "Digital drawing",
-    "date": "2022"
+    "title": "무묘武猫",
+    "material": "Ink on paper",
+    "size": "10.5x14.8cm",
+    "date": "2023"
   },
   {
-    "title": "독배",
-    "material": "Digital drawing",
-    "date": "2022"
+    "title": "유랑流浪",
+    "material": "Ink and pen on paper",
+    "size": "18x26cm",
+    "date": "2023"
   },
   {
-    "title": "독배",
-    "material": "Digital drawing",
-    "date": "2022"
+    "title": "솔",
+    "material": "Ink and pen on paper",
+    "size": "18x26cm",
+    "date": "2023"
   },
   {
-    "title": "독배",
-    "material": "Digital drawing",
-    "date": "2022"
+    "title": "수집",
+    "material": "Collage and pen on paper",
+    "size": "18x26cm",
+    "date": "2023"
   },
   {
-    "title": "독배",
-    "material": "Digital drawing",
-    "date": "2022"
-  },
-  {
-    "title": "독배",
-    "material": "Digital drawing",
-    "date": "2022"
-  },
-  {
-    "title": "독배",
-    "material": "Digital drawing",
-    "date": "2022"
-  },
-  {
-    "title": "독배",
-    "material": "Digital drawing",
-    "date": "2022"
-  },
-  {
-    "title": "Untitled",
-    "material": "Digital drawing",
-    "date": "2022"
-  },
-  {
-    "title": "Untitled",
-    "material": "Digital drawing",
-    "date": "2022"
-  },
-  {
-    "title": "Untitled",
-    "material": "Digital drawing",
-    "date": "2022"
-  },
-  {
-    "title": "Untitled",
-    "material": "Digital drawing",
-    "date": "2022"
-  },
-  {
-    "title": "Untitled",
-    "material": "Digital drawing",
-    "date": "2022"
-  },
-  {
-    "title": "Untitled",
-    "material": "Digital drawing",
-    "date": "2022"
-  },
-  {
-    "title": "Untitled",
-    "material": "Digital drawing",
-    "date": "2022"
-  },
-  {
-    "title": "타투들과 탄천",
-    "material": "Digital drawing",
-    "date": "2022"
-  },
-  {
-    "title": "유정이랑 환기미술관",
-    "material": "Digital drawing",
-    "date": "2022"
-  },
-  {
-    "title": "준우",
-    "material": "Digital drawing",
-    "date": "2022"
+    "title": "사유자들",
+    "material": "Pencil on paper",
+    "size": "21x29.7cm",
+    "date": "2023"
   }
 ]
